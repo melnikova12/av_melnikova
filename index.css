@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+	color: burlywood;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px black, 0 0 1em white;
+}
+h2{
+	text-align: center;
+	color: burlywood;
+	text-shadow: 1px 1px 2px black, 0 0 1em white;
+}
+p{
+color: olive;
+	text-align: center;
+}
+
+div {
+	color: olive;
+	text-align: center;
+}
+h3{
+	font-size: 20px;
+	color: darkolivegreen;
+}
+h4{
+	font-size: 20px;
+	color: darkolivegreen;
+	text-align: center;
+}
+h5{
+	font-size: 20px;
+	color: darkolivegreen;
+	text-align: center;
+}
+.fig{
+	text-align: center;
+}
+h6{
+	color: darkolivegreen;
+	font-size: 20px;
+	text-align: center;
+}
